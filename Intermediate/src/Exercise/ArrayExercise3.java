@@ -11,6 +11,7 @@ public class ArrayExercise3 {
         float alturas[];
         float addition = 0;
         int n;
+        
         System.out.print("Enter the number of values: ");
         n = input.nextInt();
         alturas = new float[n];
