@@ -1,4 +1,4 @@
-package ArraysAdvanced;
+package ArraysMedium;
 
 import java.util.Scanner;
 
